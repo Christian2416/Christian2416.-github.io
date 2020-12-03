@@ -1,0 +1,27 @@
+body {
+	font-family: "arial";
+	margin: 0;
+}
+
+.header {
+  	text-align: center;
+  	background: #242424;
+  	color: white;
+  	width: 100%;
+  	right: 0;
+   	top: 0;
+ }
+
+.image {
+	padding: 30px;
+	padding-bottom: 0px;
+    width: 300px;
+}
+
+.body {
+	text-align: center;
+	font-family: "century gothic";
+	font-size: 20px;
+	margin: 30px;
+	padding: 20px; 
+}
